@@ -21,7 +21,3 @@ copy the ABI and Contract Address and paste it  in App.js file
 # feel free to  develope the System
 
 
-our report and Presetation :  
-
-[Graduation Project Discussion.pptx](https://github.com/DevAloshe/Polygon-BlockChain-Based-Document-Verficationv2.7/files/8977189/Graduation.Project.Discussion.pptx)  
-[Blockchain-Based Document Verification System.pdf](https://github.com/DevAloshe/Polygon-BlockChain-Based-Document-Verficationv2.7/files/8977203/Blockchain-Based.Document.Verification.System.pdf)
